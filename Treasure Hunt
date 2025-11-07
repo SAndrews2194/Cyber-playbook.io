@@ -1,0 +1,11 @@
+summary table: 
+1.Data Link
+2.192.168.50.1, 192.168.50.62, 192.168.50.63
+3.show interfaces trunk and show vlan brief 
+4.IP mute 172.16.0.0.255.255.255.0.10.10.10.2
+5.access-list 100 deny icmp any any echo 
+6.Background Processes and Overloaded Router
+7.white/orange, orange, white/green, blue, white/blue, green, white/brown, brown
+8.you would test the network layer next because the first two layers are working. As it can connect locally  
+9.Protocol: SNMP (Simple Network Management protocol) Tool: Wireshark 
+10. put in black board as seperate images 
